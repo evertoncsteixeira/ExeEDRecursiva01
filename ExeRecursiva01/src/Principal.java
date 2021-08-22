@@ -34,7 +34,7 @@ public class Principal {
 				funcaoNumeroRepete(Integer.parseInt(valor.substring(0,valor.length()-1)) ,repetidor);
 			}
 		}
-
+		//a relação é fita atraves do valor de retorno utilizando uma variavel da classe principal para somar quando o valor é encontrado.
 		return total;
 	}
 }
